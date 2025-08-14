@@ -28,7 +28,6 @@
 
 | Project | Description |
 |---------|-------------|
-| **`dart_udemy`** | Educational project to apply Dart concepts from a Udemy course. |
 | **[Firebase-Web-Task](https://github.com/Dalia-Ramadan/Firebase-Web-Task)** | A web app integrated with Firebase to manage authentication and data storage. |
 | **[LoginNavigator](https://github.com/Dalia-Ramadan/LoginNavigator)** | A Flutter app demonstrating navigation between login and home screens. |
 | **[Api-Task](https://github.com/Dalia-Ramadan/Api-Task)** | A JavaScript project fetching and displaying product data from a public API in styled cards. |
